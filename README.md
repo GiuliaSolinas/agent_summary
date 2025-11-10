@@ -1,5 +1,5 @@
-# agent_summary
-Simple agentic workflow for summarization task with Google Cloud and Google Studio
+# agent_podcast
+Simple agentic workflow for podcast generation of a newsletter with Google Cloud and Google Studio
 
 Week 1: Foundation & Prototyping (3 hours)
 
